@@ -3,7 +3,7 @@ function Header (){
         <header>
             
                 <div id="logo">
-                    <p>Logo</p>
+                
                 </div>
          
             <ul>
